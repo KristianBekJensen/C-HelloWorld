@@ -1,6 +1,6 @@
-namespace HelloWorld.Tests;
+namespace HelloWorld.Test;
 
-public class ProgramTests
+public class UnitTest1
 {
     [Fact]
     public void Main_when_run_prints_Hello_World()
